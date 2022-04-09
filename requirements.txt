@@ -1,0 +1,3 @@
+pyserial
+Click
+psycopg2-binary
